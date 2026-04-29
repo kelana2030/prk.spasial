@@ -1,0 +1,11 @@
+_pycache_/
+*.pyc
+.env
+*.tif
+*.tiff
+*.img
+data/raw/
+output/
+.Ds_Store
+Thumbs.db
+
